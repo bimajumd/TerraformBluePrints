@@ -2,8 +2,8 @@
 aws-region = "us-east-1"
 
 # SSH Key Variables
-ssh-key-name =  "aws-cloudedge"
-ssh-key =  "   " #To be filled out
+ssh-key-name =  "aws-test"
+ssh-key =  "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCoVxnQO6RVR0a7sNdvoqKYC2No34V0pioXNEWnDI5vkRJ1FqgvOAgVdu/M3ywezqZ8RxsmeBXeXvCB8l3tk2iRGnycduiFKen8Lol2i5kUTIkLdDK4XLynlC+6IhnRRYBj3l18hwl0cTRjxF6ltxSWEqjsZ86njpjTvpk+pElAelQqGnId5ETHwdUxGjeGEK9tkw41VPR5XxqmiKA2qfj/XD/U9yAPf5R93nH/0/Z0lNvAzOm4FeyFKcickw5U3JV3FbRUPSpoMZA/Q008xFShfL3i9v7gCLq3G2e5O80jZtfHPHfkd0egMrWgNjH5e/OrE+fGc62W99M5mTHidT8j bimajumd@BIMAJUMD-M-84AQ" #To be filled out
 
 
 #VPC Parameters
